@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @youssef-el-atmani
 - 👀 I’m interested in web dev
-- 🌱 I’m currently learning at [The Odin Project](https://www.theodinproject.com/)
+- 🌱 I’m currently learning web dev using `MDN learn`
 - You can reach me on Discord: @shihaabyoussef
 
 
